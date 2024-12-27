@@ -1,0 +1,11 @@
+C:\да\Программы\C#\DB_laba5\DB_laba5\bin\Debug\DB_laba5.exe.config
+C:\да\Программы\C#\DB_laba5\DB_laba5\bin\Debug\DB_laba5.exe
+C:\да\Программы\C#\DB_laba5\DB_laba5\bin\Debug\DB_laba5.pdb
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.csproj.AssemblyReference.cache
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.Properties.Resources.resources
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.csproj.GenerateResource.cache
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.csproj.CoreCompileInputs.cache
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.exe
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.pdb
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.Form1.resources
+C:\да\Программы\C#\DB_laba5\DB_laba5\obj\Debug\DB_laba5.Form2.resources
